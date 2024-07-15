@@ -1,12 +1,12 @@
 {
-"name": "thejanapansilu",
+"name": "PMD-CLONE",
 "version": "2.1.2",
-"description": "thejanapansilu has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "PMD-CLONE has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name thejanapansilu",
-"stop": "pm2 stop thejanapansilu",
-"restart": "pm2 restart thejanapansilu"
+"start": "pm2 start start.js --deep-monitoring --attach --name PMD-CLONE",
+"stop": "pm2 stop PMD-CLONE",
+"restart": "pm2 restart PMD-CLONE"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
